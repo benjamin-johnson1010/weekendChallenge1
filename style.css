@@ -1,0 +1,12 @@
+body{
+  background: #FEE0C6;
+  text-align: center;
+  font-family: 'Courier New','Book Antiqua', sans-serif;
+}
+input{
+    margin: 5px;
+    font-size: 20px;
+}
+button{
+  font-size: 20px
+}
