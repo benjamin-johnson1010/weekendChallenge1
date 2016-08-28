@@ -8,5 +8,14 @@ input{
     font-size: 20px;
 }
 button{
-  font-size: 20px
+position: relative;
+right: 5px;
+background-color: white;
+  font-size: 20px;
+  width: 220px;
+  margin: 5px;
+
+}
+button:hover{
+  color: blue;
 }
